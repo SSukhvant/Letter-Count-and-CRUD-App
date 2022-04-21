@@ -52,14 +52,10 @@ function App() {
         </button>
       </div>
       {result.map((index, key) => (
-        <div key={key}>{index}</div>
+        <div key={key} className="app__output">{index}</div>
       ))}
     </div>
   );
 }
 
 export default App;
-
-// {count.map((index) => {
-//   <h2 id="count">{index.letter}{index.occurs}</h2>
-// })}

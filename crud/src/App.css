@@ -1,0 +1,35 @@
+.app {
+  padding: 10%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.app__container{
+  margin-top: 2rem;
+  width: 10rem;
+}
+
+table {
+  /* background-color: aqua; */
+  border-collapse: collapse;
+  width: 45rem;
+}
+
+tr {
+  padding: 1rem;
+  border: 0.1rem solid rgb(126, 126, 126);
+  display: flex;
+  justify-content: space-between;
+}
+
+.app__add-btn{
+  padding: 1rem 2rem;
+  background-color: transparent;
+}
+
+.app__delete-btn{
+  padding: 0.5rem 1rem;
+  background-color: transparent;
+}
