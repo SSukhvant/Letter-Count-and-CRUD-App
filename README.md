@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+ # Letter Count Output
+ 
+ ![alt text](./LetterCount.png)
+
+ # Getting Started with Create React App
 
 In the project directory, you can run:
 
@@ -18,7 +22,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 For more information about Vite JS
  (https://vitejs.dev/guide/)
-
- # Letter Count Output
- 
- ![alt text](./LetterCount.png)
