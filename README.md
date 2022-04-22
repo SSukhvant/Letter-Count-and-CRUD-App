@@ -2,6 +2,10 @@
  
  ![alt text](./LetterCount.png)
 
+  # Add Random Record And Delete Record
+ 
+ ![alt text](./Crud.png)
+
  # Getting Started with Create React App
 
 In the project directory, you can run:
