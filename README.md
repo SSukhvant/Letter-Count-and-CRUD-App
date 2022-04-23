@@ -2,14 +2,14 @@
  
  ![alt text](./LetterCount.png)
 
-  ## Open [https://add-random-user.netlify.app/](https://add-random-user.netlify.app/) to view it in your browser.
+  ## Open [https://lettercount.netlify.app/](https://lettercount.netlify.app/) to view it in your browser.
 
   # Add Random Record And Delete Record
  
  ![alt text](./Crud.png)
 
  ## Open [https://add-random-user.netlify.app/](https://add-random-user.netlify.app/) to view it in your browser.
- 
+
 
  # Getting Started with Create React App
 
