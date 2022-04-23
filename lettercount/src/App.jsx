@@ -11,7 +11,8 @@ function App() {
   };
 
   const LetterOccurs = (strr) => {
-    const str = strr.replace(/\s+/g, '');
+    const s = strr.replace(/\s+/g, '');
+    const str = s.toUpperCase();
     let res = [];
     if (str.length == 0) {
       console.log("Invalid string");
