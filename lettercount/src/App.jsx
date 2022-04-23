@@ -10,7 +10,8 @@ function App() {
     setText(val);
   };
 
-  const LetterOccurs = (str) => {
+  const LetterOccurs = (strr) => {
+    const str = strr.replace(/\s+/g, '');
     let res = [];
     if (str.length == 0) {
       console.log("Invalid string");
@@ -21,8 +22,7 @@ function App() {
       for (let j = 0; j < str.length; j++) {
         if (str[i] == str[j] && i > j) {
           break;
-        }
-        if (str[i] == str[j]) {
+        }else if (str[i] == str[j]) {
           count++;
         }
       }
