@@ -51,7 +51,9 @@ function App() {
 
   return (
     <div className="app">
+      <a type="button" href="https://lettercount.netlify.app">Go to Letter Count App</a>
       <div className="app__container">
+      <h2>Add Random User:</h2>
       <button
       type="button"
       className="app__add-btn"
